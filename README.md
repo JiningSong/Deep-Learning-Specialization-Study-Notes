@@ -1,3 +1,3 @@
 # Deep-Learning-Specialization-Study-Notes
 
-Study Notes and Graded Jupyter Notebooks created while taking `Coursera Deep Learning Specialization` course
+This repository contains my Study Notes and Graded Jupyter Notebooks for `Coursera Deep Learning Specialization` course
